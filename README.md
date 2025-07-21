@@ -2,7 +2,7 @@
 -👀 I’m interested in coding, especially web and mobile development  
 -🌱 I’m currently learning JavaScript, Python, and exploring AI tools  
 -💞️ I’m looking to collaborate on fun coding projects and open-source contributions  
--📫 How to reach me: [your email or social media link]  
+-📫 How to reach me: fikriskull12@gmail.com
 -😄 Pronouns: he/him  
 -⚡ Fun fact: I love solving coding challenges and always enjoy learning something new!
 
